@@ -1,5 +1,7 @@
 {
   "rewrites": [
     { "source": "/", "destination": "/invitation.html" }
-  ]
+  ],
+  "outputDirectory": ".",
+  "framework": null
 }
